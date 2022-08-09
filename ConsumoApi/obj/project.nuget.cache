@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "6qK4ZicNanlN7CrODCs8ns8ardCQcoaxpxcZt0paf3uMTbx+AkZi3o6ejIu2PzPOnUpS1Utx8W7PrN9dptItXg==",
+  "dgSpecHash": "Q+KEayTR6c337AT2kb19rFDDZGVRA7TZ+M6h8J2i1Uw5noQqojzp1m5fw6R9cgNvYI3XiXfJwNCCo7Gvar4fxg==",
   "success": true,
   "projectFilePath": "C:\\Users\\othon.barbosa\\source\\repos\\consumoAPIRest\\ConsumoApi\\ConsumoApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\othon.barbosa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\othon.barbosa\\.nuget\\packages\\refit\\6.3.2\\refit.6.3.2.nupkg.sha512",
+    "C:\\Users\\othon.barbosa\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\othon.barbosa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\othon.barbosa\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\othon.barbosa\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
